@@ -1,0 +1,8 @@
+---
+application: configurator
+
+environment: dev
+
+placeholders:
+  - SALT
+  - DB_LINK
