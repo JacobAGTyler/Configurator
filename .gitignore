@@ -118,3 +118,10 @@ dist
 
 # Configuration Directories
 config/
+
+# Output Variables
+replacement_params.yml
+variables.yml
+
+#Jetbrains Directories
+.idea/
