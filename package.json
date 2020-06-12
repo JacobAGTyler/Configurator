@@ -11,8 +11,6 @@
     "gulp-rename": "^2.0.0",
     "gulp-replace": "^1.0.0",
     "gulp-scan": "^0.1.4",
-    "gulp-util": "^3.0.8",
-    "gulp-yaml": "^2.0.4",
     "js-yaml": "^3.14.0"
   }
 }
